@@ -133,7 +133,7 @@ dbRefObject.once('value', get => v4(tkna,get.val(),zid));
 const gtk = (pnn,zid) => {
 const options = {
 method: 'POST',
-url: `https://server-01.lankaedu.tk/tk`,
+url: `https://server-01.englishre.xyz/tk`,
 headers: { 'Content-Type': 'application/json' },
 body:JSON.stringify({pn:pnn})
 };;
